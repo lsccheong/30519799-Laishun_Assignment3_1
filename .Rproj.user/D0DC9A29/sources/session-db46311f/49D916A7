@@ -1,27 +1,26 @@
 {
-    "id": "E491D4BF",
+    "id": "49D916A7",
     "path": "~/Desktop/30519799-Laishun_Assignment3_1/example1.Rmd",
     "project_path": "example1.Rmd",
     "type": "r_markdown",
-    "hash": "919115862",
+    "hash": "185607815",
     "contents": "",
     "dirty": false,
-    "created": 1685085339927.0,
+    "created": 1685086119395.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
-        "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "33,3",
-        "scrollLine": "14"
+        "cursorPosition": "29,0",
+        "scrollLine": "19"
     },
     "folds": "",
-    "lastKnownWriteTime": 1685086060,
+    "lastKnownWriteTime": 1685086143,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1685086060985,
+    "last_content_update": 1685086143968,
     "read_only": false,
     "read_only_alternatives": []
 }
